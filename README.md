@@ -2,23 +2,20 @@
 <h1 align="center"> <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="200px"/></a></h1>
 
 
-<h1 align="center">Hi 👋, I'm Indrajeet Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Ananya Nigam</h1>
 
 <h2 align = "center"> Aspiring Fullstack Web Developer <h2/>
 
 <h3>Profile Visits</h3>
 
 
-![Visitor Count](https://profile-counter.glitch.me/numbskullx26/count.svg)
-
+![Visitor Count](https://profile-counter.glitch.me/NigamAnanya/count.svg)
 
 - 🌱 I’m currently learning ** TypeScript and NextJS 13 **
 
 - 💬 Ask me about ** Front End Web Development **
 
-- ⚡ Fun fact: I love to Sleep!!
-
-- 📫 How to reach me ** sarkarraj1978@gmail.com **
+- 📫 How to reach me ** ananyanigam012@gmail.com**
 
 
 <h1 align="center"> <a href="#"><img width="20%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1> 
@@ -58,14 +55,14 @@
   
   |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-[![numbskullx26's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=numbskullx26&theme=radical&hide_border=false)](https://github.com/numbskullx26)| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=numbskullx26&show_icons=true&theme=radical&hide_title=true)](https://github.com/numbskullx26)|
+[![NigamAnanya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=NigamAnanya&theme=radical&hide_border=false)](https://github.com/NigamAnanya)| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NigamAnanya&show_icons=true&theme=radical&hide_title=true)](https://github.com/NigamAnanya)|
 
 <br/>
 
 
 |🎯 Most used languages 🏆| 
 |----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numbskullx26&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/numbskullx26)|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NigamAnanya&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/NigamAnanya)|
 
 
 
