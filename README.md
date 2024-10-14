@@ -15,7 +15,7 @@
 
 - 💬 Ask me about ** Front End Web Development **
 
-- 📫 How to reach me ** ananyanigam012@gmail.com**
+- 📫 How to reach me ** ananyanigam112@gmail.com**
 
 
 <h1 align="center"> <a href="#"><img width="20%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1> 
