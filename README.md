@@ -14,10 +14,7 @@
 * 💡 Love solving challenging problems and exploring new technologies.
 * 💙 Believe in continuous learning, innovation, and building impactful solutions!
 
-</td>
-<td width="25%" align="right" valign="middle">
-<img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="200" alt="GitHub Octocat"/>
-</td>
+<h1 align="right"> <a href="#"><img width="20%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1>
 
 
 
