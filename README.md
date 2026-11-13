@@ -1,7 +1,3 @@
-
-<h1 align="center"> <a href="#"><img width="100%" height="auto" src="https://xhy3054.github.io/img/github-for-atom.png" height="200px"/></a></h1>
-
-
 <h1 align="center">Hi 👋, I'm Ananya Nigam</h1>
 
 <h2 align = "center"> Aspiring Fullstack Web Developer <h2/>
