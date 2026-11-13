@@ -20,7 +20,7 @@
       src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif"
       width="20%"
       alt="GitHub Octocat"
-      align="right"
+      align="top"
     />
   </a>
 </h1>
