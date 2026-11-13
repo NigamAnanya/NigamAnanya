@@ -58,11 +58,6 @@
 <br/>
 
 
-|🎯 Most used languages 🏆| 
-|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NigamAnanya&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/NigamAnanya)|
-
-
 
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
