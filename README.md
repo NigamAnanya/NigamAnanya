@@ -51,8 +51,8 @@
 
   <br/>
   
-  |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
-|----------------------------------|----------------------------|
+  |🎯 Github Streaks and Trophies 🏆|
+|----------------------------------|
 [![NigamAnanya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=NigamAnanya&theme=radical&hide_border=false)](https://github.com/NigamAnanya)|
 
 <br/>
