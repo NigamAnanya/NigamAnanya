@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td width="70%" valign="middle">
+    <td width="90%" valign="middle">
 
 - 💻 Developer with **1.5+ years of experience in Java and Spring Boot**.
 - 🧠 Passionate about exploring **Machine Learning, AI, and Agentic Architecture**.
