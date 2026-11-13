@@ -15,7 +15,7 @@
 * 💙 Believe in continuous learning, innovation, and building impactful solutions!
 
 </td>
-<td width="25%" align="center" valign="middle">
+<td width="25%" align="right" valign="middle">
 <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="200" alt="GitHub Octocat"/>
 </td>
 
