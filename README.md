@@ -1,8 +1,8 @@
 <p align="left">
   <img align="center" alt="Profile Visit Count" src="https://komarev.com/ghpvc/?username=NigamAnanya&style=for-the-badge" />&nbsp;
-  <a href="https://www.linkedin.com/in/ananya--nigam/" target="_blank"><img align="center" alt="Ananya Nigam | LinkedIn" width="30px" src="" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ananya--nigam/" target="_blank"><img align="center" alt="Ananya Nigam | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
-  <a href="https://x.com/AnanyaNigam012" target="_blank"><img align="center" alt="Ananya Nigam | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ananya--nigam/" target="_blank"><img align="center" alt="Ananya Nigam | LinkedIn" width="30px" src="./media/linkedin.png" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ananya--nigam/" target="_blank"><img align="center" alt="Ananya Nigam | Instagram" width="30px" src="./media/insta.jpg" /></a>&nbsp;
+  <a href="https://x.com/AnanyaNigam012" target="_blank"><img align="center" alt="Ananya Nigam | Twitter" width="30px" src="./media/x.png" /></a>&nbsp;
 </p>
 
 
