@@ -53,7 +53,7 @@
   
   |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-[![NigamAnanya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=NigamAnanya&theme=radical&hide_border=false)](https://github.com/NigamAnanya)| [![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NigamAnanya&show_icons=true&theme=radical&hide_title=true)](https://github.com/NigamAnanya)
+[![NigamAnanya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=NigamAnanya&theme=radical&hide_border=false)](https://github.com/NigamAnanya)|
 
 <br/>
 
