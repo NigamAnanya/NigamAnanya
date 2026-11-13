@@ -8,7 +8,6 @@
 ---
 
 <table>
-  <tr>
     <td width="100%" valign="middle">
 
 - 💻 Developer with **1.5+ years of experience in Java and Spring Boot**.
@@ -22,7 +21,6 @@
     <td width="30%" align="center" valign="middle">
       <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="200" alt="GitHub Octocat"/>
     </td>
-  </tr>
 </table>
 
 
