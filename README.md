@@ -11,11 +11,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/NigamAnanya/count.svg)
 
-- 🌱 I’m currently learning ** TypeScript and NextJS 13 **
+- 🌱 I’m currently working on ** Java and SpringBoot **
 
-- 💬 Ask me about ** Front End Web Development **
+- 💬 Ask me about ** Backend Dev and Integration **
 
-- 📫 How to reach me ** ananyanigam112@gmail.com**
+- 📫 How to reach me ** ananyanigam012@gmail.com**
 
 
 <h1 align="center"> <a href="#"><img width="20%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1> 
