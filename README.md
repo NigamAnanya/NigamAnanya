@@ -5,7 +5,6 @@
   <a href="https://x.com/AnanyaNigam012" target="_blank"><img align="center" alt="Ananya Nigam | Twitter" width="30px" src="./media/x.png" /></a>&nbsp;
 </p>
 
----
 
 <h1 align="right">
   <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif"
