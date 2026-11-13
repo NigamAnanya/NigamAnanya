@@ -5,7 +5,14 @@
   <a href="https://x.com/AnanyaNigam012" target="_blank"><img align="center" alt="Ananya Nigam | Twitter" width="30px" src="./media/x.png" /></a>&nbsp;
 </p>
 
+---
 
+* 💻 Developer with **1.5+ years of experience in Java and Spring Boot**.
+* 🧠 Passionate about exploring **Machine Learning, Artificial Intelligence, and Agentic Architectures**.
+* 🚀 Interested in building intelligent applications and exploring AI-driven solutions.
+* 💾 Other areas of expertise include **Backend Development, Web Development, and AI**.
+* 💡 Love solving challenging problems and exploring new technologies.
+* 💙 Believe in continuous learning, innovation, and building impactful solutions!
 
 <h1 align="center"> <a href="#"><img width="20%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1> 
 
