@@ -7,21 +7,19 @@
 
 ---
 
-<table>
-    <td width="100%" valign="middle">
+<h1 align="right">
+  <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif"
+       width="180"
+       align="right"
+       alt="GitHub Octocat"/>
+</h1>
 
 - 💻 Developer with **1.5+ years of experience in Java and Spring Boot**.
-- 🧠 Passionate about exploring **Machine Learning, AI, and Agentic Architecture**.
+- 🧠 Passionate about **Machine Learning, AI, and Agentic Architecture**.
 - 🚀 Interested in building intelligent applications and AI-driven solutions.
 - 💾 Other areas of interest include **AI and Web Development**.
 - 💡 Love problem-solving and exploring new technologies!
 - 💙 Believe in continuous learning and innovation.
-
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" width="200" alt="GitHub Octocat"/>
-    </td>
-</table>
 
 
 <h3 align="center">Languages and Tools:</h3>
