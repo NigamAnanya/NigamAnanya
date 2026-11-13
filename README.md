@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ananya Nigam</h1>
+<p align="left">
+  <img align="center" alt="Profile Visit Count" src="https://komarev.com/ghpvc/?username=NigamAnanya&style=for-the-badge" />&nbsp;
+  <a href="https://www.linkedin.com/in/ananya--nigam/" target="_blank"><img align="center" alt="Ananya Nigam | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ananya--nigam/" target="_blank"><img align="center" alt="Ananya Nigam | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
+  <a href="https://x.com/AnanyaNigam012" target="_blank"><img align="center" alt="Ananya Nigam | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
+</p>
 
-<h2 align = "center"> Aspiring Fullstack Web Developer <h2/>
-
-- 🌱 I’m currently working on ** Java and SpringBoot **
-
-- 💬 Ask me about ** Backend Dev and Integration **
-
-- 📫 How to reach me ** ananyanigam012@gmail.com**
 
 
 <h1 align="center"> <a href="#"><img width="20%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1> 
