@@ -6,9 +6,6 @@
 
 <h2 align = "center"> Aspiring Fullstack Web Developer <h2/>
 
-<h3>Profile Visits</h3>
-
-
 ![Visitor Count](https://profile-counter.glitch.me/NigamAnanya/count.svg)
 
 - 🌱 I’m currently working on ** Java and SpringBoot **
