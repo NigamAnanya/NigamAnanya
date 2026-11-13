@@ -16,12 +16,11 @@
 
 <h1 align="right">
   <a href="#">
-    <img
-      src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif"
-      width="20%"
-      alt="GitHub Octocat"
-      align="top"
-    />
+    <img src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif"
+         width="200"
+         align="right"
+         style="float: right; margin-top: 60px; margin-left: 20px;"
+         alt="GitHub Octocat"/>
   </a>
 </h1>
 
